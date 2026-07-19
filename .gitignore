@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+notebooks/.ipynb_checkpoints/
+.python-version
