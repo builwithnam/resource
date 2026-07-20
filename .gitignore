@@ -11,3 +11,4 @@ wheels/
 
 notebooks/.ipynb_checkpoints/
 .python-version
+.env
