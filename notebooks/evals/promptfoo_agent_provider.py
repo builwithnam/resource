@@ -16,7 +16,7 @@ from typing import Any
 from dotenv import load_dotenv
 from openai import AzureOpenAI
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_AZURE_OPENAI_API_VERSION = "2025-04-01-preview"
 DEFAULT_AZURE_OPENAI_ENDPOINT = "https://bookingcare-ai-nam-resource.cognitiveservices.azure.com"
 DEFAULT_AZURE_OPENAI_MODEL = "gpt-5.5"
